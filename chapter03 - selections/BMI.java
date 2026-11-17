@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class BMI {
-
+    //Detrmines a users BMI using provided height and weight.
     public static void main(String[] args) {
         //Scanner object for user input.
         Scanner input = new Scanner(System.in);
